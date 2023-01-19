@@ -21,10 +21,5 @@ My name is Hakim ben hadj brahim  I am a student in Issat Mateur and I would lik
 - [@Hakimbhb](https://www.github.com/hakimbhb)
 
 
-## 🛠 Skills
-Javascript, HTML, CSS...
-pascal,C,C++..
-
-
 ## Link to Download
 https://routinehub.co/shortcut/13951/
