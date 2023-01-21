@@ -19,7 +19,10 @@ My name is Hakim ben hadj brahim  I am a student in Issat Mateur and I would lik
 ## Authors
 
 - [@Hakimbhb](https://www.github.com/hakimbhb)
+## 🚀 Update
 
-
+  ## v2
+  With this update, we've increased the maximum character limit of your shortcut from 300 to 500 words 
+We have improved the display of saved texts to make them more clear and easy to read. 
 ## Link to Download
-https://routinehub.co/shortcut/13951/
+[[https://routinehub.co/shortcut/13951/](https://routinehub.co/shortcut/13951/)](https://routinehub.co/shortcut/13951/)
