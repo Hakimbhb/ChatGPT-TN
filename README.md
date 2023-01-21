@@ -24,15 +24,15 @@ v2
   With this update, we've increased the maximum character limit of your shortcut from 300 to 500 words 
 We have improved the display of saved texts to make them more clear and easy to read. 
 # Screenshots [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
- <img src="01759568-6E32-41FB-829D-1CE6D8200CAB.png"  height="48" width="48"/><br>
- <img src="0B8BFBE9-5E9F-4458-9CE5-E88B6FA9E42B.jpeg"  height="48" width="48"/><br>
- <img src="73A9B4FE-26F1-4675-9407-A0D036285A70.png"  height="48" width="48"/><br>
- <img src="980A6C11-1793-4DAB-A81A-AC042B73A5DF.jpeg"  height="48" width="48"/>
+ <img src="01759568-6E32-41FB-829D-1CE6D8200CAB.png"  height="100" width="100"/><br>
+ <img src="0B8BFBE9-5E9F-4458-9CE5-E88B6FA9E42B.jpeg"  height="100" width="100"/><br>
+ <img src="73A9B4FE-26F1-4675-9407-A0D036285A70.png"  height="100" width="100"/><br>
+ <img src="980A6C11-1793-4DAB-A81A-AC042B73A5DF.jpeg"  height="100" width="100"/>
 
 <br>
- <img src="AFD1FA9F-92E9-4FC6-B349-D3D4AAD645BB.jpeg"  height="48" width="48"/>
+ <img src="AFD1FA9F-92E9-4FC6-B349-D3D4AAD645BB.jpeg"  height="100" width="100"/>
 <br>
- <img src="CBF99630-32CB-4F9B-A7EC-3D4C055CAD83.png"  height="48" width="48"/>
+ <img src="CBF99630-32CB-4F9B-A7EC-3D4C055CAD83.png"  height="100" width="100"/>
 
 <br>
  <img src="D4995587-8D6E-43BE-847C-BC1978ADDE1E.jpeg"  height="48" width="48"/>
