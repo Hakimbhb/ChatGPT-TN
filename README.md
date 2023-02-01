@@ -23,6 +23,9 @@ My name is Hakim ben hadj brahim  I am a student in Issat Mateur and I would lik
 v2
   With this update, we've increased the maximum character limit of your shortcut from 300 to 500 words 
 We have improved the display of saved texts to make them more clear and easy to read. 
+V3
+This upgrade fix for a bug related to saving and exiting ,takes text results from 550 words up to 700 words, making it an even more powerful tool for anyone who wants quick and easy access to bilingual communication and text processing capabilities. 
+
 # Screenshots [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
  <img src="01759568-6E32-41FB-829D-1CE6D8200CAB.png"  height="300" width="600"/><br>
  <img src="0B8BFBE9-5E9F-4458-9CE5-E88B6FA9E42B.jpeg"  height="300" width="600"/><br>
