@@ -19,7 +19,26 @@ My name is Hakim ben hadj brahim  I am a student in Issat Mateur and I would lik
 ## Authors
 
 - [@Hakimbhb](https://www.github.com/hakimbhb)
+## ⚙️ Steps:
+Step 1: Open https://beta.openai.com/account/api-keys
+Step 2: Log in to your account. 
+Step 3: Create your own API key and copy it.
+Step 4: Open the shortcut and paste in your API key (If this is the first time opening the shortcut, you can paste it directly). 
+Step 5: Enjoy and see you soon!
+
+ ## 💡 Informations:
+
+Remember, if you have a free OpenAI account they will provide 18$ of usage over the course of 3 months - after that period is over a credit card must be used to continue using the service. 
+
 ## 🚀 Update
+
+## V3
+Hello everyone! 
+
+We've decided to make a final change to our shortcut, as the cost associated with using our API has become too much. We are sad to announce that this means we will no longer be using our API in the shortcut, however it is still available for use. To ensure you can continue to use this shortcut, we have added some instructions on how to use your own API instead. 
+
+We'd like to thank you all for understanding and we look forward to working with you all again on more projects in the future. Thank you!
+
 v2
   With this update, we've increased the maximum character limit of your shortcut from 300 to 500 words 
 We have improved the display of saved texts to make them more clear and easy to read. 
